@@ -13,3 +13,6 @@ Three different algorithms have been applied to decide how to allot the ad slot 
 1. Greedy algorithm<br/>
 2. Balance algorithm<br/>
 3. MSVV algorithm<br/>
+
+Acknowledgement: <br/>
+The project definition and the datasets have been provided by Dr. Nagiza Samatova.
